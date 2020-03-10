@@ -1,6 +1,6 @@
-## Python Data Analysis for Psychology students
+## Coding for Data Analysis and Visualisation
 
-A one-day course designed to introduce Psychology students to the following:
+A one-day course designed to introduce learners to the following:
 
     Jupyter Notebook
     Python
@@ -46,4 +46,8 @@ Using pandas
     - info()
     - tail()
     - describe()
-    - exploratory data analysis
+    - Exploratory Data Analysis
+    - Reading data
+    - Cleaning data
+    - Transforming data
+    - Visualising data
