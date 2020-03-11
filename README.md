@@ -5,6 +5,8 @@ A one-day course designed to introduce learners to the following:
     Jupyter Notebook
     Python
     Pandas
+    Matplotlib
+    Seaborn
 
 ### Topics covered
 
@@ -38,7 +40,7 @@ Python
         - lower()
         - Removing duplicates
     
-Using pandas
+Using Pandas
 
     - What is pandas?
     - Dataframes
@@ -50,4 +52,7 @@ Using pandas
     - Reading data
     - Cleaning data
     - Transforming data
+    - Visualising data
+
+Using Matplotlib and Seaborn
     - Visualising data
