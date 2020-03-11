@@ -53,6 +53,7 @@ Using Pandas
     - Cleaning data
     - Transforming data
     - Visualising data
-    
+
 Using Matplotlib and Seaborn
+    
     - Visualising data
