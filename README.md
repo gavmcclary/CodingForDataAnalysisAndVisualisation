@@ -55,5 +55,10 @@ Using Pandas
     - Visualising data
 
 Using Matplotlib and Seaborn
+<<<<<<< HEAD
     
     - Visualising data
+=======
+
+    - Visualising data
+>>>>>>> 8c13cff376dba723c187aea125995f38a6416b36
